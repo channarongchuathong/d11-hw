@@ -73,6 +73,13 @@ header {
     object-fit: cover;
 }
 
+.btn-bd{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    width: 100%;
+}
+
 .btn {
     border: none;
     padding: 14px 20px;
